@@ -100,3 +100,22 @@
 [17:18:03] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:47432]: Logged in as 'Neonic'
 [17:18:03] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:47432|Neonic] -> UpstreamBridge has connected
 [17:18:03] [Netty Worker IO Thread #2/INFO]: [Neonic|/[0:0:0:0:0:0:0:1%0]:47432] <-> ServerConnector [lobby] has connected
+[17:19:23] [Netty Worker IO Thread #2/INFO]: [Neonic] disconnected with: Server closed
+[17:19:23] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:47432|Neonic] -> UpstreamBridge has disconnected
+[17:19:23] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:47432|Neonic] <-> DownstreamBridge <-> [lobby] has disconnected
+[17:34:31] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:41684]: Connected via websocket
+[17:34:31] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:41684]: Origin header is null
+[17:34:31] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:41684]: Logged in as 'Neonic'
+[17:34:31] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:41684|Neonic] -> UpstreamBridge has connected
+[17:34:31] [Netty Worker IO Thread #2/INFO]: [Neonic|/[0:0:0:0:0:0:0:1%0]:41684] <-> ServerConnector [lobby] has connected
+[17:35:15] [Netty Worker IO Thread #2/INFO]: [Neonic] disconnected with: Server closed
+[17:35:15] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:41684|Neonic] -> UpstreamBridge has disconnected
+[17:35:15] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:41684|Neonic] <-> DownstreamBridge <-> [lobby] has disconnected
+[17:35:26] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:41716]: Connected via websocket
+[17:35:26] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:41716]: Origin header is null
+[17:35:26] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:41716]: Logged in as 'Neonic'
+[17:35:26] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:41716|Neonic] -> UpstreamBridge has connected
+[17:35:26] [Netty Worker IO Thread #1/INFO]: [Neonic|/[0:0:0:0:0:0:0:1%0]:41716] <-> ServerConnector [lobby] has connected
+[17:43:23] [Netty Worker IO Thread #1/INFO]: [Neonic] disconnected with: Server closed
+[17:43:23] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:41716|Neonic] -> UpstreamBridge has disconnected
+[17:43:23] [Netty Worker IO Thread #1/INFO]: [/[0:0:0:0:0:0:0:1%0]:41716|Neonic] <-> DownstreamBridge <-> [lobby] has disconnected
