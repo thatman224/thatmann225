@@ -80,3 +80,23 @@
 [17:01:12] [Netty Worker IO Thread #0/WARN]: Error occurred processing connection for Neonic AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25565
 [17:01:12] [Netty Worker IO Thread #0/INFO]: [Neonic] disconnected with: Could not connect to a default or fallback server. Incorrectly configured address/port/firewall? 
 [17:01:12] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:35374|Neonic] -> UpstreamBridge has disconnected
+[17:03:07] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:44472]: Connected via websocket
+[17:03:07] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:44472]: Origin header is null
+[17:03:07] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:44472]: Logged in as 'Neonic'
+[17:03:07] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:44472|Neonic] -> UpstreamBridge has connected
+[17:03:07] [Netty Worker IO Thread #2/INFO]: [Neonic|/[0:0:0:0:0:0:0:1%0]:44472] <-> ServerConnector [lobby] has connected
+[17:10:50] [Netty Worker IO Thread #2/INFO]: [Neonic] disconnected with: Server closed
+[17:10:50] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:44472|Neonic] -> UpstreamBridge has disconnected
+[17:10:50] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:44472|Neonic] <-> DownstreamBridge <-> [lobby] has disconnected
+[17:10:58] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:45630]: Connected via websocket
+[17:10:58] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:45630]: Origin header is null
+[17:10:58] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:45630]: Logged in as 'Neonic'
+[17:10:58] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:45630|Neonic] -> UpstreamBridge has connected
+[17:10:58] [Netty Worker IO Thread #0/WARN]: Error occurred processing connection for Neonic AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25565
+[17:10:58] [Netty Worker IO Thread #0/INFO]: [Neonic] disconnected with: Could not connect to a default or fallback server. Incorrectly configured address/port/firewall? 
+[17:10:58] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:45630|Neonic] -> UpstreamBridge has disconnected
+[17:18:03] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:47432]: Connected via websocket
+[17:18:03] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:47432]: Origin header is null
+[17:18:03] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:47432]: Logged in as 'Neonic'
+[17:18:03] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:47432|Neonic] -> UpstreamBridge has connected
+[17:18:03] [Netty Worker IO Thread #2/INFO]: [Neonic|/[0:0:0:0:0:0:0:1%0]:47432] <-> ServerConnector [lobby] has connected
