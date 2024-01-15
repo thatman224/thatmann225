@@ -65,3 +65,11 @@
 [16:50:41] [main/INFO] [EaglercraftXBungee]: Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
 [16:50:41] [main/INFO]: Enabled plugin EaglercraftXBungee version 1.0.9 by lax1dude
 [16:50:41] [Netty Boss IO Thread #0/INFO]: Listening on /127.0.0.1:25577
+[16:53:25] [Netty Worker IO Thread #2/WARN] [EaglercraftXBungee]: Server icon is not a file: /workspaces/EaglercraftX-Server/bungee/server-icon.png
+[16:59:47] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:52014]: Connected via websocket
+[16:59:47] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:52014]: Origin header is null
+[16:59:47] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:52014]: Logged in as 'Neonic'
+[16:59:47] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:52014|Neonic] -> UpstreamBridge has connected
+[16:59:47] [Netty Worker IO Thread #2/WARN]: Error occurred processing connection for Neonic AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25565
+[16:59:47] [Netty Worker IO Thread #2/INFO]: [Neonic] disconnected with: Could not connect to a default or fallback server. Incorrectly configured address/port/firewall? 
+[16:59:47] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:52014|Neonic] -> UpstreamBridge has disconnected
